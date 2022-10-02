@@ -16,4 +16,4 @@ module.exports = {
 };
 
 // The whitelist contract is deployed on 0x18b7FA42Ff583bfBe9A463D48406af21372dE4ad
-// The CryptoDevs contract is deployed on 0x72123e64bCD4376A02ce097e55dC994E99BFD665
+// The CryptoDevs contract is deployed on 0xf457169a93d88f2ECF054EaAd253f8E8c0FA21c7
