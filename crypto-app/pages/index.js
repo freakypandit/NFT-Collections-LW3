@@ -313,7 +313,7 @@ const Home = () => {
     // condition 4: If user, and presale hasn't started
     if(!presaleStarted) {
       return(
-        <div className={styles.description}> Presale hasn't started</div>
+        <div className={styles.description}> Presale hasnt started</div>
       );
     }
 
